@@ -1,3 +1,4 @@
+For security vulnerabilities, DM https://twitter.com/benawad 
 Report bugs: https://github.com/voidpet/bugs/issues
 
 # FAQ
