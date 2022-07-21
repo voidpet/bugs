@@ -7,7 +7,4 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-
-**What's your Voidpet username?**
-
+Describe the bug below and provide your Voidpet username.
